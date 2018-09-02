@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "colorize.colorized_variables": [
+        "CSS",
+        "SASS"
+    ]
+}
